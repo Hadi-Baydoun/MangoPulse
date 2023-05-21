@@ -63,3 +63,6 @@ Another scroll event listener is added to trigger scroll animations for service 
 
 Initializing Slider using the tns Library
 The code initializes a slider using the tns (Tiny Slider) library. It specifies the container element, slide transition settings, navigation controls, and responsive settings for different screen sizes.
+
+
+If you need further explanations you can find comments inside the code.
