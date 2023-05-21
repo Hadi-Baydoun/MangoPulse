@@ -30,7 +30,7 @@ Hover effect over logos of the clients
 Contact Section: Provides contact details with a Google Map location
 having 4 sections to write: name, phone, email and message with animation on send button and on the left side google map location , email of mangopulse and phone number
 
-Footer
+#Footer containing all rights reserved and socials of mangopulse
 
 
 #JS Code:
